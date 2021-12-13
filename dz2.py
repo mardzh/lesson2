@@ -43,3 +43,7 @@ for el in price:
     out += f'{int(el):02d} руб {round((int(el) - int(el))*100)} коп, '
 print(out)
 
+
+
+
+
